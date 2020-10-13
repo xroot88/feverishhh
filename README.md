@@ -16,3 +16,5 @@ If you keep mentioning gmeet and similar in the fiverr's chat - they will ban bo
 Instead, clone the repo, add text to this file, and create a PR to this repo.
 
 I know we have nothing to hide; however, fiverr does not think so.
+
+**#feverishhh**: Google Meet link for project discussion: https://meet.google.com/vou-vbjv-bvi
